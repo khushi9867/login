@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() 
+document.addEventListener("DOMContentLoaded", function() {
     const form = document.querySelector("form");
     const nameInput = document.getElementById("username");
     const emailInput = document.getElementById("email");
